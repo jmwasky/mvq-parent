@@ -1,0 +1,6 @@
+server:
+  context-path: /mvq
+  port: 8084
+  #host: 192.168.169.101
+  session:
+    timeout: 3600
